@@ -1,0 +1,70 @@
+carr: Carreira1
+inv: 
+args: 1
+-----
+carr: Carreira2
+inv: 
+args: 1
+-----
+carr: Carreira3
+inv: 
+args: 1
+-----
+carr: Carreira4
+inv: 
+args: 1
+-----
+carr: Carreira5
+inv: 
+args: 1
+-----
+carr: Carreira6
+inv: 
+args: 1
+-----
+carr: Carreira7
+inv: 
+args: 1
+-----
+carr: Carreira8
+inv: 
+args: 1
+-----
+carr: Carreira9
+inv: 
+args: 1
+-----
+carr: Carreira10
+inv: 
+args: 1
+-----
+carr: Carreira3
+inv: 
+args: 1
+paragem35, paragem64, paragem75, paragem52, paragem95, paragem32, paragem26, paragem48, paragem41, paragem90, paragem97, paragem5, paragem66, paragem36, paragem25, paragem21, paragem78, paragem76, paragem86, paragem3, paragem35
+-----
+carr: Carreira3
+inv: 
+args: 1
+paragem35, paragem64, paragem75, paragem52, paragem95, paragem32, paragem26, paragem48, paragem41, paragem90, paragem97, paragem5, paragem66, paragem36, paragem25, paragem21, paragem78, paragem76, paragem86, paragem3, paragem35
+-----
+carr: Carreira3
+inv: inv
+args: 3
+paragem35, paragem3, paragem86, paragem76, paragem78, paragem21, paragem25, paragem36, paragem66, paragem5, paragem97, paragem90, paragem41, paragem48, paragem26, paragem32, paragem95, paragem52, paragem75, paragem64, paragem35
+-----
+carr: Carreira3
+inv: inv
+args: 3
+paragem35, paragem3, paragem86, paragem76, paragem78, paragem21, paragem25, paragem36, paragem66, paragem5, paragem97, paragem90, paragem41, paragem48, paragem26, paragem32, paragem95, paragem52, paragem75, paragem64, paragem35
+-----
+carr: Carreira3
+inv: 
+args: 1
+paragem35, paragem64, paragem75, paragem52, paragem95, paragem32, paragem26, paragem48, paragem41, paragem90, paragem97, paragem5, paragem66, paragem36, paragem25, paragem21, paragem78, paragem76, paragem86, paragem3, paragem35
+-----
+carr: Carreira3
+inv: 
+args: 1
+paragem35, paragem64, paragem75, paragem52, paragem95, paragem32, paragem26, paragem48, paragem41, paragem90, paragem97, paragem5, paragem66, paragem36, paragem25, paragem21, paragem78, paragem76, paragem86, paragem3, paragem35
+-----
